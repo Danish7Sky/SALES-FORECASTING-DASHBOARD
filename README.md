@@ -61,5 +61,5 @@ Product Hierarchy - Category → Sub-category drill down
 This dashboard helps businesses make data-driven decisions for sales forecasting and strategy planning.
   
 7. Screenshots
-   https://github.com/Danish7Sky/SALES-FORECASTING-DASHBOARD/blob/main/SALES%20FORECASTING%20DASHBOARD.png
-   https://github.com/Danish7Sky/SALES-FORECASTING-DASHBOARD/blob/main/SALES%20FORECASTING%20DASHBOARD%202.png
+Main Page - https://github.com/Danish7Sky/SALES-FORECASTING-DASHBOARD/blob/main/SALES%20FORECASTING%20DASHBOARD.png
+15 Days Forecasting - https://github.com/Danish7Sky/SALES-FORECASTING-DASHBOARD/blob/main/SALES%20FORECASTING%20DASHBOARD%202.png
